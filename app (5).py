@@ -19,25 +19,25 @@ JEOPARDY_DATA = {
         {"val": 1000, "q": "An inactive treatment given to a control group (like a sugar pill) to isolate psychological effects.", "a": "Placebo"}
     ],
     "Gone Fishing": [
-        {"val": 200, "q": "This student loves lingering at the bottom of the tank, has long 'whiskers' (barbels), and cleans up every scrap of food.", "a": "Catfish"},
-        {"val": 400, "q": "This energetic student has a huge mouth, loves showing off, and is North America's most popular freshwater game fish.", "a": "Largemouth Bass"},
-        {"val": 600, "q": "This student sports a multicolored stripe down its side while swimming upstream through cold, clear streams.", "a": "Rainbow Trout"},
-        {"val": 800, "q": "This mysterious deep-sea student carries its own bioluminescent glowing flashlight lure right on top of its head.", "a": "Anglerfish"},
-        {"val": 1000, "q": "This sensitive student inflates like a spiky balloon whenever it feels threatened or stressed.", "a": "Pufferfish (or Blowfish)"}
+        {"val": 200, "q": "This fish loves lingering at the bottom of the tank, has long 'whiskers' (barbels), and cleans up every scrap of food.", "a": "Catfish"},
+        {"val": 400, "q": "This energetic fish has a huge mouth, loves showing off, and is North America's most popular freshwater game fish.", "a": "Largemouth Bass"},
+        {"val": 600, "q": "This fish sports a multicolored stripe down its side while swimming upstream through cold, clear streams.", "a": "Rainbow Trout"},
+        {"val": 800, "q": "This mysterious deep-sea fish carries its own bioluminescent glowing flashlight lure right on top of its head.", "a": "Anglerfish"},
+        {"val": 1000, "q": "This sensitive fish inflates like a spiky balloon whenever it feels threatened or stressed.", "a": "Pufferfish (or Blowfish)"}
     ],
     "Bias": [
         {"val": 200, "q": "This sampling method lets individuals choose whether to participate (e.g., online polls), leading to strong opinions over-representing results.", "a": "Voluntary Response Sampling"},
         {"val": 400, "q": "This bias occurs when certain groups within the population are systematically left out of the sample selection process.", "a": "Undercoverage Bias"},
-        {"val": 600, "q": "This technique divides the population into homogeneous groups (strata) and takes a random sample from each group.", "a": "Stratified Random Sampling"},
+        {"val": 600, "q": "This non-random sampling technique selects individuals who are easiest to reach, such as surveying people nearby at a single location.", "a": "Convenience Sampling"},
         {"val": 800, "q": "This bias occurs when selected individuals refuse or are unable to participate in the survey.", "a": "Nonresponse Bias"},
-        {"val": 1000, "q": "This systematic method selects every k-th individual from an ordered list (e.g., interviewing every 10th person walking in).", "a": "Systematic Sampling"}
+        {"val": 1000, "q": "This concept describes how much sample statistics naturally differ from sample to sample, which can be reduced by increasing sample size.", "a": "Sampling Variability"}
     ],
     "Poker Night": [
         {"val": 200, "q": "What is the probability of drawing a Red card from a standard deck?\n\n*Hint: Deck has 52 cards total (26 Red, 26 Black).*", "a": "26/52 = 1/2 (50%)"},
-        {"val": 400, "q": "What is the probability of drawing an Ace on a single draw?\n\n*Hint: There are 4 Aces in a 52-card deck. Simplify 4/52.*", "a": "4/52 = 1/13 (≈ 7.69%)"},
-        {"val": 600, "q": "What is the probability of drawing a Face Card (Jack, Queen, or King)?\n\n*Hint: There are 3 face cards per suit across 4 suits = 12 total face cards.*", "a": "12/52 = 3/13 (≈ 23.08%)"},
-        {"val": 800, "q": "You draw 2 cards without replacement. What is the probability that BOTH are Aces?\n\n*Hint: P(1st Ace) × P(2nd Ace) = (4/52) × (3/51).*", "a": "12/2652 = 1/221 (≈ 0.45%)"},
-        {"val": 1000, "q": "What is the probability of drawing either a Heart OR a King?\n\n*Hint: Use Addition Rule: P(Heart) + P(King) - P(King of Hearts) = 13/52 + 4/52 - 1/52.*", "a": "16/52 = 4/13 (≈ 30.77%)"}
+        {"val": 400, "q": "What is the probability of drawing an Ace on a single draw?\n\n*Hint: There are 4 Aces in a 52-card deck.*", "a": "4/52 = 1/13 (≈ 7.69%)"},
+        {"val": 600, "q": "What is the probability of drawing a Face Card (Jack, Queen, or King)?\n\n*Hint: There are 3 face cards per suit across 4 suits.", "a": "12/52 = 3/13 (≈ 23.08%)"},
+        {"val": 800, "q": "You draw 2 cards without replacement. What is the probability that BOTH are Aces?\n\n*Hint: P(1st Ace) × P(2nd Ace).", "a": "12/2652 = 1/221 (≈ 0.45%)"},
+        {"val": 1000, "q": "What is the probability of drawing either a Heart OR a King?\n\n*Hint: Use Addition Rule: P(Heart) + P(King) - P(King of Hearts).", "a": "16/52 = 4/13 (≈ 30.77%)"}
     ]
 }
 
