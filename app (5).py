@@ -18,7 +18,7 @@ JEOPARDY_DATA = {
         {"val": 800, "q": "This term refers to an unmeasured variable associated with both the explanatory and response variables that distorts results.", "a": "Confounding Variable"},
         {"val": 1000, "q": "An inactive treatment given to a control group (like a sugar pill) to isolate psychological effects.", "a": "Placebo"}
     ],
-    "Gone Fish": [
+    "Gone Fishing": [
         {"val": 200, "q": "This student loves lingering at the bottom of the tank, has long 'whiskers' (barbels), and cleans up every scrap of food.", "a": "Catfish"},
         {"val": 400, "q": "This energetic student has a huge mouth, loves showing off, and is North America's most popular freshwater game fish.", "a": "Largemouth Bass"},
         {"val": 600, "q": "This student sports a multicolored stripe down its side while swimming upstream through cold, clear streams.", "a": "Rainbow Trout"},
