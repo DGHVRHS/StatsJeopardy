@@ -49,7 +49,7 @@ if "used_questions" not in st.session_state:
 if "active_q" not in st.session_state:
     st.session_state.active_q = None
 
-st.title("🏆 Classroom Jeopardy!")
+st.title("🏆 Stats Jeopardy!")
 
 # Scoreboard Sidebar
 st.sidebar.header("Scoreboard")
